@@ -2,7 +2,7 @@
 
 A compact collection of **Python** scripts implementing common **quantitative finance** models and simulations—option pricing, stochastic processes, portfolio optimization, fixed-income pricing, and Value at Risk.
 
-> Educational / research code. It’s intentionally script-first (not a packaged library).
+> Educational purpose ONLY.
 
 ## What’s inside
 
